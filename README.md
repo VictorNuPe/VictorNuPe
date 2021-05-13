@@ -1,12 +1,12 @@
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=VictorNuPe.id)
+<img src="https://img.shields.io/github/followers/VictorNuPe?logo=gitHub&style=for-the-badge">
 
 <h2> Hi there, I'm Victor <img align="center" src="https://media2.giphy.com/media/xT9IgB5Q6QYqarxeIU/giphy.webp?cid=ecf05e479vkv2gcute8g4bncigwpjhog0xeb19xb9e9u2cnp&rid=giphy.webp&ct=s" height="50" width="50"> </h2>
 
 <img align="right" src="https://media.giphy.com/media/dYyRWrXb9OpfYbhNY4/giphy.gif" height="400" width="400">
-<br />
-<br />
 
 Hi, I'm Victor Nunes, an IT student from Brazil looking forward to learn more about this awesome world of coding!
+
+<hr>
 
 <h3>:suspect: About me:</h3>
 
