@@ -1,5 +1,4 @@
 ![](https://img.shields.io/github/followers/VictorNuPe?logo=github)
-
 ![](https://komarev.com/ghpvc/?username=VictorNuPe&color=blue&style=flat)
 
 <h2> Hi there, I'm Victor <img align="center" src="https://media2.giphy.com/media/xT9IgB5Q6QYqarxeIU/giphy.webp?cid=ecf05e479vkv2gcute8g4bncigwpjhog0xeb19xb9e9u2cnp&rid=giphy.webp&ct=s" height="50" width="50"> </h2>
