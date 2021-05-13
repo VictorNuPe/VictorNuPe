@@ -28,6 +28,9 @@ Hi, I'm Victor Nunes, an IT student from Brazil looking forward to learn more ab
 <code><img height="20" src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png"></code>
 
+- ``Databases:``
+<code><img height="20" src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png"></code>
+<code><img height="20" src="https://img1.gratispng.com/20180704/hwt/kisspng-microsoft-sql-server-database-server-computer-icon-database-5b3c51e96f2372.0675852115306797854552.jpg"></code>
 
 - ``Mobile:``
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
@@ -42,7 +45,7 @@ Hi, I'm Victor Nunes, an IT student from Brazil looking forward to learn more ab
 
 <hr>
 
-<h3>Analytics</h3>
+<h3>:clipboard: Analytics:</h3>
 
 <p align="left">
 <a href="https://github.com/GuillaumeFalourd">
@@ -51,10 +54,11 @@ Hi, I'm Victor Nunes, an IT student from Brazil looking forward to learn more ab
 </a>
 </p>
 
-<h3>Get in Touch!</h3>
+<hr>
+
+<h3>:telephone: Get in Touch!</h3>
 
 [![Facebook: Victor Nunes](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
 )](https://www.facebook.com/victor.nunes.144/)
-
 [![Linkedin: Victor Nunes](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-nunes-31aa101b9/)
 
