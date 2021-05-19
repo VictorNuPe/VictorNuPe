@@ -40,7 +40,7 @@ Hi, I'm Victor Nunes, an IT student from Brazil looking forward to learn more ab
 - ``Editors/IDEs:``
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 <code><img height="20" src="https://community.chocolatey.org/content/packageimages/netbeans-php.8.2.png"></code>
-<code><img height="20" src="https://lh3.googleusercontent.com/proxy/-pnHw2CjY7ZTdoNgpp8kbBVF0UN8SmbZaf87AE_KNCCGgaSwUhHQx0-V3fe1ghH9S9kYphy6oOu1bSm5IaRvf-gJGTp8Aic2UX52fkdWEKS5ALtAXd6_HPwYyqXFyFxPSItNkXANF_tZvyfEY213in6O-LtabEZOBl7AXOx9BVX72Ud1RmWmaUEclj5wV-WjeSMiA-XqawfMgnqRzep7daa5pbktpS5FkQff7OuONfBs0DzOor-XR_LB_SPm"></code>
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg"></code>
 
 <p>NOTE: Those are the languages and tools that I'm currently learning or had previous experiences.</p>
 
