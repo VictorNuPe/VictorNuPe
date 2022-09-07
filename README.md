@@ -25,7 +25,6 @@ Hi, I'm Victor Nunes, an IT student from Brazil looking forward to learn more ab
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 
 - ``Back-End:``
-<code><img height="20" src="https://image.flaticon.com/icons/png/512/226/226777.png"></code>
 <code><img height="20" src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Ruby_logo.png"></code>
 
