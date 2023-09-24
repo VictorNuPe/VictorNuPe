@@ -5,7 +5,7 @@
 
 <img align="right" src="https://media.giphy.com/media/dYyRWrXb9OpfYbhNY4/giphy.gif" height="400" width="400">
 
-Hi, I'm Victor Nunes, an IT student from Brazil looking forward to learn more about this awesome world of coding!
+Hi, I'm Victor Nunes, a recently graduated Information Systems student, currently looking for my first opportunity in the Web Development field!
 
 <hr>
 
