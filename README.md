@@ -11,7 +11,7 @@ Hi, I'm Victor Nunes, an IT student from Brazil looking forward to learn more ab
 
 <h3>:suspect: About me:</h3>
 
-- I’m 21 years old.
+- I’m 22 years old.
 - I’m a Information Systems student at Universidade Nove de Julho(Uninove) located in São Paulo - Brazil.
 - Currently I'm finding my way through Web and Mobile development.
 
