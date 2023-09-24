@@ -12,8 +12,8 @@ Hi, I'm Victor Nunes, a recently graduated Information Systems student, currentl
 <h3>:suspect: About me:</h3>
 
 - I’m 22 years old.
-- I’m a Information Systems student at Universidade Nove de Julho(Uninove) located in São Paulo - Brazil.
-- Currently I'm finding my way through Web and Mobile development.
+- Currently living in Limerick, Ireland.
+- Focusing in the Web Development and Mobile tools at the moment.
 
 <hr>
 
